@@ -1,11 +1,9 @@
 npm-debug.log
 node_modules
 jspm_packages
-/dist
 *.metadata.json
 .idea
 lib
 build
-*.js
 *.map
 *.d.ts
